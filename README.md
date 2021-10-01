@@ -1,5 +1,4 @@
-**Data Science Projects**  
-These projects were done collaborating with 3 other coursemates I met during the SGUS ModularMasters for Data Science.
+## These projects were done collaborating with 3 other coursemates I met during the SGUS ModularMasters for Data Science.
 
 **Using Excel and Regression Models**
 1. Gathering insights on Housing Price Index vs Monthly Household Median Income (v11.pptx)  
