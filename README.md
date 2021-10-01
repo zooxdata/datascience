@@ -10,7 +10,7 @@
 2. Both Macro and Micro events can cause the supply and demand for housing to change and thus resulting the prices to fluctuate  
 3. Housing prices in Singapore are largely managed and controlled by the SG government through policies like controlled land sales, cooling measures etc  
 4. Coupled with efforts to increase the household income by attaching investments, upgrading and reskilling the labor force etc  
-5. This enable public housing to remain affordable to most Singaporeans 
+5. This enable public housing to remain affordable to most Singaporeans  
 In conclusion we found that HDB Price Index and Private Price Index are highly correlated and Housing Price Indexes can predict the median monthly household income to a certain extent
 
 **Using Python**  
