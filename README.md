@@ -1,13 +1,12 @@
 **Data Science Projects**  
 These projects were done collaborating with 3 other coursemates I met during the SGUS ModularMasters for Data Science.
 
-**Using Excel **
-1. Housing Price Index vs Monthly Household Median Income (v11.pptx)  
-Our very first hands-on assignment was done using excel and statistics. The objective of our project:  
-1. Does the Median Monthly Household Income increases proportionally with the housing price index
-2. Can we use housing price indexes to predict the Median Monthly Household Income? 
+**Using Excel and Regression Models**
+1. Gathering insights on Housing Price Index vs Monthly Household Median Income (v11.pptx)  
+- Does the Median Monthly Household Income increases proportionally with the housing price index?
+- Can we use housing price indexes to predict the Median Monthly Household Income? 
 
-**The insights we gathered:**
+**The Insights We Gathered:**
 1. Many factors can affect housing prices and household income to fluctuate  
 2. Both Macro and Micro events can cause the supply and demand for housing to change and thus resulting the prices to fluctuate  
 3. Housing prices in Singapore are largely managed and controlled by the SG government through policies like controlled land sales, cooling measures etc  
