@@ -3,7 +3,7 @@
 **Using Excel and Regression Models**
 1. Gathering insights on Housing Price Index vs Monthly Household Median Income (v11.pptx)  
 - Does the Median Monthly Household Income increases proportionally with the housing price index?
-- Can we use housing price indexes to predict the Median Monthly Household Income? 
+- Can we use housing price indexes to predict the Median Monthly Household Income?  
 The Insights We Gathered:  
 1. Many factors can affect housing prices and household income to fluctuate  
 2. Both Macro and Micro events can cause the supply and demand for housing to change and thus resulting the prices to fluctuate  
